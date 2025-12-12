@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/it-incubator/static/css/main.edafbfc6.css",
-    "main.js": "/it-incubator/static/js/main.bec36b12.js",
+    "main.css": "/it-incubator/static/css/main.a12a6f5f.css",
+    "main.js": "/it-incubator/static/js/main.fd4fbc12.js",
     "static/js/787.66cb4309.chunk.js": "/it-incubator/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/it-incubator/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/it-incubator/index.html",
-    "main.edafbfc6.css.map": "/it-incubator/static/css/main.edafbfc6.css.map",
-    "main.bec36b12.js.map": "/it-incubator/static/js/main.bec36b12.js.map",
+    "main.a12a6f5f.css.map": "/it-incubator/static/css/main.a12a6f5f.css.map",
+    "main.fd4fbc12.js.map": "/it-incubator/static/js/main.fd4fbc12.js.map",
     "787.66cb4309.chunk.js.map": "/it-incubator/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edafbfc6.css",
-    "static/js/main.bec36b12.js"
+    "static/css/main.a12a6f5f.css",
+    "static/js/main.fd4fbc12.js"
   ]
 }
